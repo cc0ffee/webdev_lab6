@@ -62,3 +62,13 @@ body {
   background-color: #ccc;
   color: #333;
 }
+
+h2 strong {
+  font-size: 2em;
+  font-weight: 900;
+}
+
+strong {
+  font-weight: 900;
+  font-size: 48px;
+}
